@@ -26,10 +26,10 @@ cat file.tmx
 ```
 
 # Dependencies
-+ [SFML]()
-+ [TinyXML2]()
-+ [g++]()
-+ [GNU Make]()
++ [SFML](https://github.com/SFML/SFML)
++ [TinyXML2](https://github.com/leethomason/tinyxml2)
++ [g++](https://github.com/gcc-mirror/gcc)
++ [GNU Make](https://savannah.gnu.org/git/?group=make)
 
 ---
 
